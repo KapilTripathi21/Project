@@ -1,2 +1,2 @@
-# Stroke Project
-This is a Stroke Prediction Project
+# Project
+This is a Stroke Prediction Project.
